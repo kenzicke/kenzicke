@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kenzie Cooke (@kenzicke)
-- Undergraduate student at University of Miami studying Marine Biology.
-- Student Assistant @ NOAA AOML coral program
-- 📫 kenzie.cooke@noaa.gov
-- 😄 Pronouns: she/her
+Kenzie Cooke (@kenzicke)
+Undergraduate student at University of Miami studying Marine Biology.
+Student Assistant @ NOAA AOML coral program
+📫 kenzie.cooke@noaa.gov
+😄 Pronouns: she/her
 
 
 <!---
